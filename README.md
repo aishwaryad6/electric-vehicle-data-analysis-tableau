@@ -1,4 +1,4 @@
-# 🚗 Electric Vehicle Population Analysis Dashboard - Tableau
+# 🚗📊 Electric Vehicle Population Analysis Dashboard - Tableau
 
 ## 📌 Project Overview  
 This **Tableau Dashboard** provides a comprehensive analysis of **Electric Vehicle (EV) adoption trends**, highlighting key metrics such as **total EVs, BEV vs. PHEV distribution, average electric range, and state-wise vehicle registrations**. The project offers **data-driven insights into the EV market**, helping stakeholders understand **growth patterns, manufacturer dominance, and policy impact**.
