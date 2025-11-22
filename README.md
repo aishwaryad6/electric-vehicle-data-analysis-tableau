@@ -56,7 +56,7 @@ The Tableau dashboard enables users to explore **EV adoption trends, manufacture
 
 ### 📌 Dashboard Screenshot  
 
-![Electric Vehicle Analysis Dashboard](docs/ev analysis dashboard.png)
+>![Electric Vehicle Analysis Dashboard](docs/ev analysis dashboard.png)
 
 ---
 
